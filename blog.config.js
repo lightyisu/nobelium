@@ -1,5 +1,5 @@
 const BLOG = {
-  title: 'Rdna Universe-Anew🪐',
+  title: 'RDNA 博客🪐Uni',
   author: 'Wk Zheng',
   email: '1513221978@qq.com',
   link: 'https://rnda.com.cn',
@@ -20,7 +20,7 @@ const BLOG = {
   ogImageGenerateURL: 'https://og-image-craigary.vercel.app', // The link to generate OG image, don't end with a slash
   socialLink: 'https://twitter.com/craigaryhart',
   seo: {
-    keywords: ['Blog', 'Website', 'Notion'],
+    keywords: ['Blog', '博客', '程序员','记录','Vue.js','Python'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
   },
   notionPageId: process.env.NOTION_PAGE_ID, // DO NOT CHANGE THIS！！！
