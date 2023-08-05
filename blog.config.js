@@ -1,5 +1,5 @@
 const BLOG = {
-  title: 'RDNA 博客🪐Uni',
+  title: 'RDNA 博客',
   author: 'Wk Zheng',
   email: '1513221978@qq.com',
   link: 'https://rnda.com.cn',
@@ -18,7 +18,7 @@ const BLOG = {
   showArchive: true,
   autoCollapsedNavBar: false, // The automatically collapsed navigation bar
   ogImageGenerateURL: 'https://og-image-craigary.vercel.app', // The link to generate OG image, don't end with a slash
-  socialLink: 'https://twitter.com/craigaryhart',
+  socialLink: '',
   seo: {
     keywords: ['Blog', '博客', '程序员','记录','Vue.js','Python'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
