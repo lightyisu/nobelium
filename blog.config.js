@@ -1,9 +1,9 @@
 const BLOG = {
-  title: 'RDNA 博客',
+  title: 'HeyLuck~ 博客',
   author: 'Wk Zheng',
   email: '1513221978@qq.com',
-  link: 'https://rnda.com.cn',
-  description: 'Live For Another Day Anew.',
+  link: 'https://heyluck.xyz',
+  description: 'HeyLuck!',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   timezone: 'Asia/Shanghai', // Your Notion posts' date will be interpreted as this timezone. See https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for all options.
   appearance: 'auto', // ['light', 'dark', 'auto'],
@@ -20,7 +20,7 @@ const BLOG = {
   ogImageGenerateURL: 'https://og-image-craigary.vercel.app', // The link to generate OG image, don't end with a slash
   socialLink: '',
   seo: {
-    keywords: ['Blog', '博客', '程序员','记录','Vue.js','Python'],
+    keywords: ['HeyLuck','Blog', '博客', '程序员','记录','Vue.js','Python'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
   },
   notionPageId: process.env.NOTION_PAGE_ID, // DO NOT CHANGE THIS！！！
