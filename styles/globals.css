@@ -153,9 +153,7 @@ nav {
   }
   .sticky-nav-full .post-title ~ span .site-title {
     @apply opacity-0;
-    font-family: '思源宋体';
-    font-weight: bold;
-    color: #D40000;
+   
   }
 }
 
@@ -168,4 +166,9 @@ nav {
 
 .capture-pointer-events * {
   @apply pointer-events-none;
+}
+.site-enhance{
+   font-family: '思源宋体';
+    font-weight: bold;
+    color: #D40000;
 }
