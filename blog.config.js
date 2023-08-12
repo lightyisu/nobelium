@@ -1,5 +1,5 @@
 const BLOG = {
-  title: 'HeyLuck~ 博客',
+  title: '欢喜博客',
   author: 'Wk Zheng',
   email: '1513221978@qq.com',
   link: 'https://heyluck.xyz',
